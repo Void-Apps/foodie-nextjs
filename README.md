@@ -34,7 +34,7 @@ NextLevel Food is designed for food lovers who want to explore and share their c
 *The community perks page highlights the benefits of joining the NextLevel Food community.*
 
 ### Meal Browser
-![Meal Browser](https://github.com/Void-Apps/foodie-nextjs/blob/main/assets/testing/MealBrowser.pnga)
+![Meal Browser](https://github.com/Void-Apps/foodie-nextjs/blob/main/assets/testing/MealBrowser.png)
 *A selection of delicious meals curated by the community. Users can view details and try these recipes at home.*
 
 ### Meal Intake Form
