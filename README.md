@@ -26,20 +26,20 @@ NextLevel Food is designed for food lovers who want to explore and share their c
 ## Screenshots
 
 ### Landing Page
-![Landing Page](./assets/LandingPage.png)
-*The landing page of NextLevel Food, welcoming users with a tantalizing burger image and a call to join the community.*
+![Landing Page](https://github.com/Void-Apps/foodie-nextjs/blob/main/assets/testing/LandingPage.png)
+*The landing page of NextLevel Food, welcoming users to browse recipes or join the community.*
 
 ### Community Page
-![Community Page](./screenshots/CommunityPage.png)
-*The community perks page highlighting the benefits of joining the NextLevel Food community.*
+![Community Page](https://github.com/Void-Apps/foodie-nextjs/blob/main/assets/testing/CommunityPage.png)
+*The community perks page highlights the benefits of joining the NextLevel Food community.*
 
 ### Meal Browser
-![Meal Browser](./screenshots/MealBrowser.png)
+![Meal Browser](https://github.com/Void-Apps/foodie-nextjs/blob/main/assets/testing/MealBrowser.pnga)
 *A selection of delicious meals curated by the community. Users can view details and try these recipes at home.*
 
 ### Meal Intake Form
-![Meal Intake Form](./screenshots/MealIntakeForm.png)
-![Meal Intake Form](./screenshots/MealIntakeForm.png)
+![Meal Intake Form](https://github.com/Void-Apps/foodie-nextjs/blob/main/assets/testing/MealIntakeForm.png)
+![Meal Intake Form1](https://github.com/Void-Apps/foodie-nextjs/blob/main/assets/testing/mealIntakeForm2.png)
 *Users can submit their own recipes using this form, sharing their culinary masterpieces with the world.*
 
 ## Getting Started
